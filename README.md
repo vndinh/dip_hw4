@@ -6,15 +6,15 @@ Homework 4 Execution
 1. Directory Structure
 
 	master
-		|
-		|-- Test_images
-		|-- 20184187_EE535_DIP_HW4_Report.pdf
-		|-- exe_hw4.m
-		|-- Problem1.m
-		|-- Problem2_1.m
-		|-- Problem2_2.m
-		|-- Problem2_3.m
-		|-- README.txt
+	|
+	|-- Test_images
+	|-- 20184187_EE535_DIP_HW4_Report.pdf
+	|-- exe_hw4.m
+	|-- Problem1.m
+	|-- Problem2_1.m
+	|-- Problem2_2.m
+	|-- Problem2_3.m
+	|-- README.txt
 
 2. Setup Directory to Test_images
 
