@@ -8,7 +8,7 @@ Homework 4 Execution
 	master
 	|
 	|-- Test_images
-	|-- 20184187_EE535_DIP_HW4_Report.pdf
+	|-- 20184187_EE535_DIP_HW4_Report.docx
 	|-- exe_hw4.m
 	|-- Problem1.m
 	|-- Problem2_1.m
