@@ -11,4 +11,4 @@ Homework 4 Execution
 	
 	- Open Matlab with workspace is your master folder.
 	- In the command window, type: exe_hw4
-	- Read 20184187_EE535_DIP_HW4_Report.pdf for explanation method and analysis result.
+	- Read 20184187_EE535_DIP_HW4_Report.docx for explanation method and analysis result.
