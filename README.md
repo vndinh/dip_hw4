@@ -1,6 +1,4 @@
 # dip_hw4
-Homework 4, Digital Image Processing, Spring 2018
-
 Homework 4 Execution
 
 1. Directory Structure
