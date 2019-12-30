@@ -14,7 +14,7 @@ Homework 4 Execution
 	|-- Problem2_1.m
 	|-- Problem2_2.m
 	|-- Problem2_3.m
-	|-- README.txt
+	|-- README.md
 
 2. Setup Directory to Test_images
 
